@@ -4,7 +4,7 @@ Roll a little circle inside a bigger one and let a moving pen trace its path.
 
 ## Run
 
-Open `index.html` in a modern browser. HTML, CSS, and JavaScript are all in that file. No server, packages, internet connection, API key, build step, or downloaded model is required.
+https://raeeskasim1.github.io/spirograph-desk/
 
 ## Try it
 
